@@ -1,11 +1,11 @@
-                                    DEBER Nº4
+                                    DEBER Nº6
                                INFORMACIÓN GENERAL:
               DEPARTAMENTO: Eléctrica, Electrónica y Telecomunicaciones-DEEL
                       ÁREA DE CONOCIMIENTO: Sistemas Eléctricos-SEL
                    CARRERA: Ingeniería Electrónica y Automatización
                    
      • NIVEL: Segundo Nivel
-     • PERIODO ACADÉMICO: SII 202250
+     • PERIODO ACADÉMICO: SI 202250
      • ALUMNO:                 
                    - FUENTES SALAS AARON DAVID         
                    
@@ -72,7 +72,8 @@ MARCO TEORICO
 
 •	Es necesario que tengamos los conceptos escenciales bien claros para que podamos entender los siguientes temas que estan relacionados y que son un poco mas complicados, la corriente alterna tiene muchos mas parametros que la corriente directa donde podemos manejr todos los datos haciendo uso de la ley de Ohm
 
-•	Combinar procesos si es posible en la resolucion de los ejercicios
+•	Asi como existen diferentes tipos de valores para las resistencias, para otros componentes como los capacitores tambien tenemos de diferentes valores que podemos usar dependiendo de la necesidad que tengamos y poder diferenciarlos importane, tambien saber como se comportan cuando tenemos mas de un capacitor en nuestro circuito y como encontrar la capacitancia total.
+
 6. RUBRICA
 
 ![image](https://user-images.githubusercontent.com/105386939/176893880-f040cee1-3fae-441d-8849-b5371c4fe3bc.png)
