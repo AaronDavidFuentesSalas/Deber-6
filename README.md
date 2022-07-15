@@ -64,4 +64,26 @@ MARCO TEORICO
 ![image](https://user-images.githubusercontent.com/105386939/179120943-9155d14c-2e84-481f-b551-a0430f9f925d.png)
 
 
+4. VIDEO
 
+
+
+5. CONCLUSIONES
+
+•	Es necesario que tengamos los conceptos escenciales bien claros para que podamos entender los siguientes temas que estan relacionados y que son un poco mas complicados, la corriente alterna tiene muchos mas parametros que la corriente directa donde podemos manejr todos los datos haciendo uso de la ley de Ohm
+
+•	Combinar procesos si es posible en la resolucion de los ejercicios
+6. RUBRICA
+
+![image](https://user-images.githubusercontent.com/105386939/176893880-f040cee1-3fae-441d-8849-b5371c4fe3bc.png)
+
+ 
+7. BIBLIOGRAFIAS
+
+LOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición.
+
+García ,A.(2013) Ley de los voltajes de Kirchhoff: Método de Mallas.
+
+Charles Alexander, Matthew Sadiku. Fundamento de circuitos eléctricos.
+
+Milton Gussonw, Mexico McGraw-Hill.(1985). FUNDAMENTOS DE ELECTRICIDAD.
