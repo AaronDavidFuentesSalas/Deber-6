@@ -15,9 +15,22 @@
 
 1.1. OBJETIVO GENERAL
 
-• Aplicar los conocimientos que ya tenemos sobre conceptos escenciales como el volatje y corriente de un circuito para poder relacionarlos con volatjes y corrientes que pueden variar, en otras palabras para poder analizar que sucede con estos parametros cuando trabajamos con volathe y corrietne alterna
-1.2. 
-• Solucionaron problemas como
+• Aplicar los conocimientos que ya tenemos sobre conceptos escenciales como el volatje y corriente de un circuito para poder relacionarlos con volatjes y corrientes que pueden variar, en otras palabras para poder analizar que sucede con estos parametros cuando trabajamos con volathe y corrietne alterna.
+
+1.2. OBJETIVO ESPECIFICO
+
+• Aprender a leer ondas sinusoidales ya que de estos graficos se puede conseguir mucha informacion que nos seriva a sacar el maximo beneficio de nuestro trabajo.
+
+• Leer acerca de la utlidad de los capacitores en diferentes circuitos, diferenciar los tipos de capacitores que hay, ver como funcionan y como se comportan cuando se encuentran en paralelo o en serie.
+
+MARCO TEORICO
+
+![image](https://user-images.githubusercontent.com/105386939/179125208-ca41c1c2-f3b5-4cd6-804c-5ff43de6545f.png)
+
+![image](https://user-images.githubusercontent.com/105386939/179126016-55c672b9-f5ce-4f28-a0fd-55f7da8cfd9a.png)
+
+
+
 
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
